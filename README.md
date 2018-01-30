@@ -13,7 +13,9 @@ Helpful noteboks that I compiled while learning Machine Learning and Deep Learni
 
 ## Regression
 1. Linear Regression
+
     a. [Theory and Derivation](https://github.com/maykulkarni/Machine-Learning-Notebooks/blob/master/02.%20Regression/1A.%20Linear%20Regression%20and%20Gradient%20Descent(Theory).ipynb)
+    
     b. [In Python] (https://github.com/maykulkarni/Machine-Learning-Notebooks/blob/master/02.%20Regression/1B.%20Linear%20Regression%20and%20Gradient%20Descent%20.ipynb)
 
 Sources/References list:
