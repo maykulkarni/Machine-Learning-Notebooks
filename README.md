@@ -71,9 +71,10 @@ Helpful noteboks that I compiled while learning Machine Learning and Deep Learni
 
 5. [Application of Custering - Outlier Detection](http://nbviewer.jupyter.org/github/maykulkarni/Machine-Learning-Notebooks/blob/master/04.%20Clustering/05.%20Outlier%20Detection%20using%20KMeans.ipynb)
 
-Sources/References list:
-1. Machine Learning by Andrew Ng (Coursera)
-2. Machine Learning A-Z (Udemy)
-3. Deep Learning A-Z (Udemy)
-4. Neural Networks by Geoffrey (Hinton Coursera)
-5. Scikit-learn Cookbook (Second Edition) - Julian Avila
+
+## Sources / References:
+1. [Machine Learning by Andrew Ng (Coursera)](https://www.coursera.org/learn/machine-learning)
+2. [Machine Learning A-Z (Udemy)](https://www.udemy.com/machinelearning/)
+3. [Deep Learning A-Z (Udemy)](https://www.udemy.com/deeplearning/)
+4. [Neural Networks by Geoffrey (Hinton Coursera)](https://www.coursera.org/learn/neural-networks)
+5. [Scikit-learn Cookbook (Second Edition) - Julian Avila et. al](https://www.packtpub.com/big-data-and-business-intelligence/scikit-learn-cookbook-second-edition)
