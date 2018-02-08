@@ -59,6 +59,17 @@ Helpful noteboks that I compiled while learning Machine Learning and Deep Learni
 
 6. [Decision Trees](http://nbviewer.jupyter.org/github/maykulkarni/Machine-Learning-Notebooks/blob/master/03.%20Classification/6.%20Decision%20Trees.ipynb)
 
+## Clustering
+
+1. [KMeans](http://nbviewer.jupyter.org/github/maykulkarni/Machine-Learning-Notebooks/blob/master/04.%20Clustering/1.%20KMeans.ipynb)
+
+2. [Minibatch KMeans](http://nbviewer.jupyter.org/github/maykulkarni/Machine-Learning-Notebooks/blob/master/04.%20Clustering/2.%20MiniBatch%20KMeans.ipynb)
+
+3. [Hierarchical Clustering](http://nbviewer.jupyter.org/github/maykulkarni/Machine-Learning-Notebooks/blob/master/04.%20Clustering/3.%20Hierarchical%20Clustering.ipynb)
+
+4. [Application of Clustering - Image Quantization](http://nbviewer.jupyter.org/github/maykulkarni/Machine-Learning-Notebooks/blob/master/04.%20Clustering/4.%20Image%20Quantization%20using%20Clustering.ipynb)
+
+5. [Application of Custering - Outlier Detection](http://nbviewer.jupyter.org/github/maykulkarni/Machine-Learning-Notebooks/blob/master/04.%20Clustering/05.%20Outlier%20Detection%20using%20KMeans.ipynb)
 
 Sources/References list:
 1. Machine Learning by Andrew Ng (Coursera)
