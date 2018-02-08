@@ -34,6 +34,32 @@ Helpful noteboks that I compiled while learning Machine Learning and Deep Learni
 
 8. [Pipelines in Scikit-Learn](http://nbviewer.jupyter.org/github/maykulkarni/Machine-Learning-Notebooks/blob/master/02.%20Regression/9.%20Pipelines%20in%20Sklearn.ipynb)
 
+## Classification
+1. Logistic Regression
+
+   * a. [Logistic Regression and Gradient Descent](http://nbviewer.jupyter.org/github/maykulkarni/Machine-Learning-Notebooks/blob/master/03.%20Classification/1A.%20Logistic%20Regression%20and%20Gradient%20Descent)
+   
+   * b. [Deriving Logistic Regression](http://nbviewer.jupyter.org/github/maykulkarni/Machine-Learning-Notebooks/blob/master/03.%20Classification/1B.%20Deriving%20Logistic%20Regression%20)
+   
+   * c. [Logistic Regression using Gradient Descent](http://nbviewer.jupyter.org/github/maykulkarni/Machine-Learning-Notebooks/blob/master/03.%20Classification/1C.%20Logistic%20Regression%20using%20Gradient%20Descent)
+   
+   * d. [Logistic Regression using Sci-kit learn](http://nbviewer.jupyter.org/github/maykulkarni/Machine-Learning-Notebooks/blob/master/03.%20Classification/1D.%20Logistic%20Regression%20using%20Sci-kit%20learn.ipynb)
+
+2. Regularization
+
+   * a. [Regularization](http://nbviewer.jupyter.org/github/maykulkarni/Machine-Learning-Notebooks/blob/master/03.%20Classification/2A.%20Regularization.ipynb)
+   
+   * b. [Regularization on Logistic Regression](http://nbviewer.jupyter.org/github/maykulkarni/Machine-Learning-Notebooks/blob/master/03.%20Classification/2B.%20Regularization%20on%20Logistic%20Regression.ipynb)
+   
+3. [K Nearest Neighbors](http://nbviewer.jupyter.org/github/maykulkarni/Machine-Learning-Notebooks/blob/master/03.%20Classification/3.%20KNN.ipynb)
+
+4. [Support Vector Machines](http://nbviewer.jupyter.org/github/maykulkarni/Machine-Learning-Notebooks/blob/master/03.%20Classification/4.%20SVM.ipynb)
+
+5. [Naive Bayes](http://nbviewer.jupyter.org/github/maykulkarni/Machine-Learning-Notebooks/blob/master/03.%20Classification/5.%20Naive%20Bayes.ipynb)
+
+6. [Decision Trees](http://nbviewer.jupyter.org/github/maykulkarni/Machine-Learning-Notebooks/blob/master/03.%20Classification/6.%20Decision%20Trees.ipynb)
+
+
 Sources/References list:
 1. Machine Learning by Andrew Ng (Coursera)
 2. Machine Learning A-Z (Udemy)
