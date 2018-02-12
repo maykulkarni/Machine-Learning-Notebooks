@@ -73,15 +73,15 @@ Helpful noteboks that I compiled while learning Machine Learning and Deep Learni
 
 ## Model Evalutaion
 
-1. [Cross Validation and its types](https://github.com/maykulkarni/Machine-Learning-Notebooks/blob/master/05.%20Model%20Evaluation/1.%20Cross%20Validation%20and%20its%20types.ipynb)
+1. [Cross Validation and its types](http://nbviewer.jupyter.org/github/maykulkarni/Machine-Learning-Notebooks/blob/master/05.%20Model%20Evaluation/1.%20Cross%20Validation%20and%20its%20types.ipynb)
 
-2. [Confusion Matrix, Precision, Recall](https://github.com/maykulkarni/Machine-Learning-Notebooks/blob/master/05.%20Model%20Evaluation/Confusion%20Matrix%2C%20Precision%2C%20Recall.ipynb)
+2. [Confusion Matrix, Precision, Recall](http://nbviewer.jupyter.org/github/maykulkarni/Machine-Learning-Notebooks/blob/master/05.%20Model%20Evaluation/Confusion%20Matrix%2C%20Precision%2C%20Recall.ipynb)
 
-3. [R Squared](https://github.com/maykulkarni/Machine-Learning-Notebooks/blob/master/05.%20Model%20Evaluation/R%20Squared.ipynb)
+3. [R Squared](http://nbviewer.jupyter.org/github/maykulkarni/Machine-Learning-Notebooks/blob/master/05.%20Model%20Evaluation/R%20Squared.ipynb)
 
-4. [ROC Curve, AUC](https://github.com/maykulkarni/Machine-Learning-Notebooks/blob/master/05.%20Model%20Evaluation/ROC%20Curve%20%26%20AUC.ipynb)
+4. [ROC Curve, AUC](http://nbviewer.jupyter.org/github/maykulkarni/Machine-Learning-Notebooks/blob/master/05.%20Model%20Evaluation/ROC%20Curve%20%26%20AUC.ipynb)
 
-5. [Silhoutte Distance](https://github.com/maykulkarni/Machine-Learning-Notebooks/blob/master/05.%20Model%20Evaluation/Silhoutte%20Distance%20for%20Clustering.ipynb)
+5. [Silhoutte Distance](http://nbviewer.jupyter.org/github/maykulkarni/Machine-Learning-Notebooks/blob/master/05.%20Model%20Evaluation/Silhoutte%20Distance%20for%20Clustering.ipynb)
 
 ## Sources / References:
 1. [Machine Learning by Andrew Ng (Coursera)](https://www.coursera.org/learn/machine-learning)
