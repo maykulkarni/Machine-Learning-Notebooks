@@ -83,6 +83,12 @@ Helpful noteboks that I compiled while learning Machine Learning and Deep Learni
 
 5. [Silhoutte Distance](http://nbviewer.jupyter.org/github/maykulkarni/Machine-Learning-Notebooks/blob/master/05.%20Model%20Evaluation/Silhoutte%20Distance%20for%20Clustering.ipynb)
 
+## Associate Rule Mining
+
+1. [Apriori Algorithm](http://nbviewer.jupyter.org/github/maykulkarni/Machine-Learning-Notebooks/blob/master/06.%20Associate%20Rule%20Mining/1.%20Apriori%20Algorithm.ipynb)
+
+2. [Eclat Model](http://nbviewer.jupyter.org/github/maykulkarni/Machine-Learning-Notebooks/blob/master/06.%20Associate%20Rule%20Mining/2.%20Eclat%20Model.ipynb)
+
 ## Sources / References:
 1. [Machine Learning by Andrew Ng (Coursera)](https://www.coursera.org/learn/machine-learning)
 2. [Machine Learning A-Z (Udemy)](https://www.udemy.com/machinelearning/)
