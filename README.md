@@ -18,7 +18,9 @@ Helpful noteboks that I compiled while learning Machine Learning and Deep Learni
     
     * b. [Linear Regression from scratch](http://nbviewer.jupyter.org/github/maykulkarni/Machine-Learning-Notebooks/blob/master/02.%20Regression/1B.%20Linear%20Regression%20and%20Gradient%20Descent%20.ipynb)
     
-    * c. [Linear Regression using Scikit-learn](http://nbviewer.jupyter.org/github/maykulkarni/Machine-Learning-Notebooks/blob/master/02.%20Regression/1C.%20Simple%20and%20Multiple%20Regression%20using%20Sci-kit%20learn.ipynb): Assumptions in Linear Regression, Dummy Variable Trap, Multivariable Regression. 
+    * c. [Assumptions in Linear Regression](http://nbviewer.jupyter.org/github/maykulkarni/Machine-Learning-Notebooks/blob/master/02.%20Regression/1C.%20Assumptions%20in%20Linear%20Regression%20and%20Dummy%20variables.ipynb): Assumptions in Linear Regression, Dummy Variable Trap
+    
+    * d. [Linear Regression using Scikit-learn](http://nbviewer.jupyter.org/github/maykulkarni/Machine-Learning-Notebooks/blob/master/02.%20Regression/1C.%20Simple%20and%20Multiple%20Regression%20using%20Sci-kit%20learn.ipynb): Simple and Multivariable Regression using Scikit-learn. 
 
 2. [Backward Elimination](http://nbviewer.jupyter.org/github/maykulkarni/Machine-Learning-Notebooks/blob/master/02.%20Regression/2.%20Backward%20Elimination.ipynb): Method of Backward Elimination, P-values.
 
