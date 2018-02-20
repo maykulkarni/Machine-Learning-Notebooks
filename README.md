@@ -91,6 +91,12 @@ Helpful noteboks that I compiled while learning Machine Learning and Deep Learni
 
 2. [Eclat Model](http://nbviewer.jupyter.org/github/maykulkarni/Machine-Learning-Notebooks/blob/master/06.%20Associate%20Rule%20Mining/2.%20Eclat%20Model.ipynb)
 
+## Reinforcement Learning
+1. [Upper Confidence Bound Algorithm] (http://nbviewer.jupyter.org/github/maykulkarni/Machine-Learning-Notebooks/blob/master/07.%20Reinforcement%20Learning/1.%20Upper%20Confidence%20Bound.ipynb)
+
+2. [Thompson Sampling] (http://nbviewer.jupyter.org/github/maykulkarni/Machine-Learning-Notebooks/blob/master/07.%20Reinforcement%20Learning/2.%20Thompson%20Sampling.ipynb)
+
+
 ## Sources / References:
 1. [Machine Learning by Andrew Ng (Coursera)](https://www.coursera.org/learn/machine-learning)
 2. [Machine Learning A-Z (Udemy)](https://www.udemy.com/machinelearning/)
