@@ -96,6 +96,15 @@ Helpful noteboks that I compiled while learning Machine Learning and Deep Learni
 
 2. [Thompson Sampling](http://nbviewer.jupyter.org/github/maykulkarni/Machine-Learning-Notebooks/blob/master/07.%20Reinforcement%20Learning/2.%20Thompson%20Sampling.ipynb)
 
+## Natural Language Processing
+
+1. [Sentiment Analysis](http://nbviewer.jupyter.org/github/maykulkarni/Machine-Learning-Notebooks/blob/master/08.%20Natural%20Language%20Processing/1.%20Sentiment%20Analysis.ipynb)
+
+## Neural Networks
+
+1. [What are Activation Functions](http://nbviewer.jupyter.org/github/maykulkarni/Machine-Learning-Notebooks/blob/master/09.%20Neural%20Networks/1.%20Activation%20Functions.ipynb)
+
+2. [Vanilla Neural Network](http://nbviewer.jupyter.org/github/maykulkarni/Machine-Learning-Notebooks/blob/master/09.%20Neural%20Networks/2.%20ANN.ipynb)
 
 ## Sources / References:
 1. [Machine Learning by Andrew Ng (Coursera)](https://www.coursera.org/learn/machine-learning)
