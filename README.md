@@ -106,6 +106,11 @@ Helpful noteboks that I compiled while learning Machine Learning and Deep Learni
 
 2. [Vanilla Neural Network](http://nbviewer.jupyter.org/github/maykulkarni/Machine-Learning-Notebooks/blob/master/09.%20Neural%20Networks/2.%20ANN.ipynb)
 
+3. [Backpropagation Derivation](http://nbviewer.jupyter.org/github/maykulkarni/Machine-Learning-Notebooks/blob/master/09.%20Neural%20Networks/2A.%20Backpropagation%20.ipynb)
+
+4. [Backpropagation in Python](http://nbviewer.jupyter.org/github/maykulkarni/Machine-Learning-Notebooks/blob/master/09.%20Neural%20Networks/2B.%20Neural%20Networks%20using%20Backpropagation.ipynb)
+
+
 ## Sources / References:
 1. [Machine Learning by Andrew Ng (Coursera)](https://www.coursera.org/learn/machine-learning)
 2. [Machine Learning A-Z (Udemy)](https://www.udemy.com/machinelearning/)
