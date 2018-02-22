@@ -110,6 +110,9 @@ Helpful noteboks that I compiled while learning Machine Learning and Deep Learni
 
 4. [Backpropagation in Python](http://nbviewer.jupyter.org/github/maykulkarni/Machine-Learning-Notebooks/blob/master/09.%20Neural%20Networks/2B.%20Neural%20Networks%20using%20Backpropagation.ipynb)
 
+5. [Convolutional Neural Networks](http://nbviewer.jupyter.org/github/maykulkarni/Machine-Learning-Notebooks/blob/master/09.%20Neural%20Networks/3.%20Convolutional%20Neural%20Networks.ipynb)
+
+6. [Long Short Term Memory Neural Networks (LSTM)](http://nbviewer.jupyter.org/github/maykulkarni/Machine-Learning-Notebooks/blob/master/09.%20Neural%20Networks/4.%20Recurrent%20Neural%20Networks%20and%20LSTM%20(Theory).ipynb)
 
 ## Sources / References:
 1. [Machine Learning by Andrew Ng (Coursera)](https://www.coursera.org/learn/machine-learning)
