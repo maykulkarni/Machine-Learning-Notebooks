@@ -39,11 +39,11 @@ Helpful noteboks that I compiled while learning Machine Learning and Deep Learni
 ## Classification
 1. Logistic Regression
 
-   * a. [Logistic Regression and Gradient Descent](http://nbviewer.jupyter.org/github/maykulkarni/Machine-Learning-Notebooks/blob/master/03.%20Classification/1A.%20Logistic%20Regression%20and%20Gradient%20Descent)
+   * a. [Logistic Regression and Gradient Descent](http://nbviewer.jupyter.org/github/maykulkarni/Machine-Learning-Notebooks/blob/master/03.%20Classification/1A.%20Logistic%20Regression%20and%20Gradient%20Descent.ipynb)
    
-   * b. [Deriving Logistic Regression](http://nbviewer.jupyter.org/github/maykulkarni/Machine-Learning-Notebooks/blob/master/03.%20Classification/1B.%20Deriving%20Logistic%20Regression%20)
+   * b. [Deriving Logistic Regression](http://nbviewer.jupyter.org/github/maykulkarni/Machine-Learning-Notebooks/blob/master/03.%20Classification/1B.%20Deriving%20Logistic%20Regression%20.ipynb)
    
-   * c. [Logistic Regression using Gradient Descent](http://nbviewer.jupyter.org/github/maykulkarni/Machine-Learning-Notebooks/blob/master/03.%20Classification/1C.%20Logistic%20Regression%20using%20Gradient%20Descent)
+   * c. [Logistic Regression using Gradient Descent](http://nbviewer.jupyter.org/github/maykulkarni/Machine-Learning-Notebooks/blob/master/03.%20Classification/1C.%20Logistic%20Regression%20using%20Gradient%20Descent.ipynb)
    
    * d. [Logistic Regression using Sci-kit learn](http://nbviewer.jupyter.org/github/maykulkarni/Machine-Learning-Notebooks/blob/master/03.%20Classification/1D.%20Logistic%20Regression%20using%20Sci-kit%20learn.ipynb)
 
