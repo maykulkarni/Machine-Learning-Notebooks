@@ -1,7 +1,6 @@
 # Machine Learning Notebooks
 Helpful noteboks that I compiled while learning Machine Learning and Deep Learning from various sources on the Internet. 
 
-
 ## NumPy Basics:
 1. [NumPy Basics](http://nbviewer.jupyter.org/github/maykulkarni/Machine-Learning-Notebooks/blob/master/00.%20NumPy%20Basics/1.%20NumPy%20Basics.ipynb)
 
